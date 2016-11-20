@@ -1,0 +1,17 @@
+Base path: C:/Program Files/Unity5/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-2972
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=2245 outsize=1032 ok=1
+Cmd: preprocess
+  insize=758 outsize=1720 ok=1
+Cmd: preprocess
+  insize=2212 outsize=972 ok=1
+Cmd: preprocess
+  insize=1021 outsize=1866 ok=1
+Unhandled exception: Readfile from pipe failed. GLE=Канал был закрыт.
+
+
+Quitting shader compiler process
+
+Crashed!
