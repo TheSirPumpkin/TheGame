@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{9CF9A2DA-7DD7-298A-2898-33224AD66171}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_5_0_0;UNITY_5_0;UNITY_5;ENABLE_LICENSE_RENAME;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_NEW_HIERARCHY;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_NONPRO;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_32;UNITY_EDITOR_WIN;CROSS_PLATFORM_INPUT</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files/Unity5/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files/Unity5/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Plugins\CsLayerSwitch.cs" />
+     <Compile Include="Assets\Plugins\CsLayersSet.cs" />
+     <Compile Include="Assets\Plugins\CsLightParameters.cs" />
+     <Compile Include="Assets\Plugins\CsLightSwitch.cs" />
+     <Compile Include="Assets\Plugins\CsRendererLighter.cs" />
+     <Compile Include="Assets\Plugins\CsTriggerController.cs" />
+     <Compile Include="Assets\Plugins\CsWaterCastle.cs" />
+     <Compile Include="Assets\Plugins\PhotonChatApi\ChatChannel.cs" />
+     <Compile Include="Assets\Plugins\PhotonChatApi\ChatClient.cs" />
+     <Compile Include="Assets\Plugins\PhotonChatApi\ChatDisconnectCause.cs" />
+     <Compile Include="Assets\Plugins\PhotonChatApi\ChatEventCode.cs" />
+     <Compile Include="Assets\Plugins\PhotonChatApi\ChatOperationCode.cs" />
+     <Compile Include="Assets\Plugins\PhotonChatApi\ChatParameterCode.cs" />
+     <Compile Include="Assets\Plugins\PhotonChatApi\ChatPeer.cs" />
+     <Compile Include="Assets\Plugins\PhotonChatApi\ChatState.cs" />
+     <Compile Include="Assets\Plugins\PhotonChatApi\ChatUserStatus.cs" />
+     <Compile Include="Assets\Plugins\PhotonChatApi\IChatClientListener.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\ClickMeAndDie.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\LitJson\IJsonWrapper.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\LitJson\JsonData.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\LitJson\JsonException.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\LitJson\JsonMapper.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\LitJson\JsonReader.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\LitJson\JsonWriter.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\LitJson\Lexer.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\LitJson\ParserToken.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Radical\RPCEnabler.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Radical\System\Broadcaster.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Radical\System\Curves.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Radical\System\Delegates\DelegateSupport.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Radical\System\Easing.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Radical\System\InheritableRPC.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Radical\System\LoadAnimations.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Radical\System\Loom.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Radical\System\MonoBehaviourEx.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Radical\System\Radical.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Radical\System\RadicalRoutine.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Radical\System\RadicalRoutineHelper.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Radical\System\Smoothing.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Radical\System\Testing\Inherited.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Radical\System\Testing\SimpleCaller.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Radical\System\TransformExtensions.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Radical\System\XmlSupport.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\ResultLogger.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\EmptyObjectIdentifier.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\Entry.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\GetSet.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\GetSetGeneric.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\GetWritableAttributes.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\IStorage.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\InRangeItem.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\JSONLevelLoader.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\JSONLevelSerializer.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\JSONSerializer.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\LevelLoader.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\LevelSerializer.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\OnlyInRangeManager.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\PrefabIdentifier.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\RemoveEditors.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\Rooms\DontStoreObjectInRoom.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\Rooms\Examples\PlayerLocator.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\Rooms\Examples\PlayerSpawnPoint.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\Rooms\PreserveObjectWhenLoading.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\Rooms\Room.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\Rooms\RoomDataSaveGameStorage.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\Rooms\RoomLoader.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\Rooms\RoomManager.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\SaveGameManager.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\SerializationUnits.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\Storage.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\StoreInformation.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\StoreMaterials.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\StoreMesh.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\StoredReferences.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\TimeSpecialist.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\UniqueIdentifier.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\UnitySerializationExtensions.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\UnitySerializer.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Serialization\prewarm.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SevenZipHelper.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Checksums\Adler32.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Checksums\CRC32.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Checksums\IChecksum.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Checksums\StrangeCRC.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Compression\Deflater.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Compression\DeflaterConstants.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Compression\DeflaterEngine.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Compression\DeflaterHuffman.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Compression\DeflaterPending.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Compression\Inflater.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Compression\InflaterDynHeader.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Compression\InflaterHuffmanTree.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Compression\PendingBuffer.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Compression\Streams\DeflaterOutputStream.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Compression\Streams\InflaterInputStream.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Compression\Streams\OutputWindow.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Compression\Streams\StreamManipulator.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Encryption\PkzipClassic.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Encryption\ZipAESStream.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\Encryption\ZipAESTransform.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\SharpZipBaseException.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\ZipConstants.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\ZipEntry.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\ZipExtraData.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\SharpZIP\src\ZipHelperStream.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\UnitySerializerVersion.cs" />
+     <Compile Include="Assets\Plugins\whydoidoit.com\Utility\Types.cs" />
+     <Compile Include="Assets\Pro Standard Assets\Image Based\BlurEffect.cs" />
+     <Compile Include="Assets\Pro Standard Assets\Image Based\SSAOEffect.cs" />
+     <Compile Include="Assets\Pro Standard Assets\Water\Sources\Water.cs" />
+     <Compile Include="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
+     <Compile Include="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
+     <Compile Include="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
+     <Compile Include="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" />
+     <Compile Include="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs" />
+     <Compile Include="Assets\Standard Assets\Characters\RollerBall\Scripts\Ball.cs" />
+     <Compile Include="Assets\Standard Assets\Characters\RollerBall\Scripts\BallUserControl.cs" />
+     <Compile Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs" />
+     <Compile Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" />
+     <Compile Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
+     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
+     <Compile Include="Assets\Standard Assets\Scripts\General Scripts\ActivateTrigger.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\ActivateTrigger.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\AutoMobileShaderSwitch.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\AutoMoveAndRotate.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\CameraRefocus.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\CurveControlledBob.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\DragRigidbody.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\DynamicShadowSettings.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\FOVKick.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\FPSCounter.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\FollowTarget.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\ForcedReset.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\LerpControlledBob.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\ObjectResetter.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\ParticleSystemDestroyer.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\PlatformSpecificContent.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\SimpleActivatorMenu.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\SimpleMouseRotator.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\SmoothFollow.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\TimedObjectActivator.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\TimedObjectDestructor.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\WaypointCircuit.cs" />
+     <Compile Include="Assets\Standard Assets\Utility\WaypointProgressTracker.cs" />
+     <Compile Include="Assets\Standard Assets\Water (Basic)\Sources\Scripts\WaterSimple.cs" />
+     <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />
+     <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
+     <None Include="Assets\SWS\README.txt" />
+     <None Include="Assets\Standard Assets\Shaders\DifBumpSpecTransp.shader" />
+     <None Include="Assets\Standard Assets\Tessellation Shaders\BumpedSpecularSmooth.shader" />
+     <None Include="Assets\SWS\Plugins\HOTween\HOTween_License.txt" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Detail.shader" />
+     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\Plugins\Photon3Unity3D.xml" />
+     <None Include="Assets\SWS\Examples\Assets\Shaders\DiffuseReflectiveShader.shader" />
+     <None Include="Assets\Piplay\Male Base Character\Docs\MaleCharacterAnimation.txt" />
+     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\Plugins\release_history.txt" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />
+     <None Include="Assets\Pro Standard Assets\Image Based\SSAOShader.shader" />
+     <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
+     <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Reflective.shader" />
+     <None Include="Assets\Plugins\whydoidoit.com\license.txt" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Particles Additive Culled.shader" />
+     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Lighted.shader" />
+     <None Include="Assets\Output\Readme.txt" />
+     <None Include="Assets\Pro Standard Assets\Water\Sources\FX-Water.shader" />
+     <None Include="Assets\trap3\badfluid@gmail.com.txt" />
+     <None Include="Assets\SWS\Changelog.txt" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Vertex Colored.shader" />
+     <None Include="Assets\Raw Mocap Data\Animations\_CompleteAnimationList.txt" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Only.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap AlphaTest.shader" />
+     <None Include="Assets\Output\Photon Unity Networking\readme.txt" />
+     <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
+     <None Include="Assets\Standard Assets\shader\DifBumpSpecTransp.shader" />
+     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
+     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
+     <None Include="Assets\Standard Assets\Tessellation Shaders\BumpedSpecularDisplacement.shader" />
+     <None Include="Assets\UnitySerializer\readme.txt" />
+     <None Include="Assets\Output\Photon Unity Networking\changelog.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity5/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Photon3Unity3D">
+ <HintPath>D:/Path Strewn with Skulls/Assets/Plugins/Photon3Unity3D.dll</HintPath>
+ </Reference>
+ <Reference Include="HOTween">
+ <HintPath>D:/Path Strewn with Skulls/Assets/SWS/Plugins/HOTween/HOTween.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

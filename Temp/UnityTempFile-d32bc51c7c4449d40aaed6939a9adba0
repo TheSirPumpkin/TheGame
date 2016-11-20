@@ -1,0 +1,216 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp-firstpass.dll
+-r:"C:/Program Files/Unity5/Editor/Data/Managed/UnityEngine.dll"
+-r:"C:/Program Files/Unity5/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-r:Assets/Plugins/Photon3Unity3D.dll
+-r:Assets/SWS/Plugins/HOTween/HOTween.dll
+-r:"C:/Program Files/Unity5/Editor/Data/Managed/UnityEditor.dll"
+-r:"C:\Program Files\Unity5\Editor\Data\PlaybackEngines\iossupport\UnityEditor.iOS.Extensions.Xcode.dll"
+-define:UNITY_5_0_0
+-define:UNITY_5_0
+-define:UNITY_5
+-define:ENABLE_LICENSE_RENAME
+-define:ENABLE_NEW_BUGREPORTER
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_4_6_FEATURES
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_FRAME_DEBUGGER
+-define:ENABLE_GENERICS
+-define:ENABLE_HOME_SCREEN
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_LIGHT_PROBES_LEGACY
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_NEW_HIERARCHY
+-define:ENABLE_PHYSICS
+-define:ENABLE_PHYSICS_PHYSX3
+-define:ENABLE_PLUGIN_INSPECTOR
+-define:ENABLE_SHADOWS
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_AUDIOMIXER_SUSPEND
+-define:ENABLE_NONPRO
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:INCLUDE_IL2CPP
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_32
+-define:UNITY_EDITOR_WIN
+-define:CROSS_PLATFORM_INPUT
+Assets/Plugins/CsLayerSwitch.cs
+Assets/Plugins/CsLayersSet.cs
+Assets/Plugins/CsLightParameters.cs
+Assets/Plugins/CsLightSwitch.cs
+Assets/Plugins/CsRendererLighter.cs
+Assets/Plugins/CsTriggerController.cs
+Assets/Plugins/CsWaterCastle.cs
+Assets/Plugins/PhotonChatApi/ChatChannel.cs
+Assets/Plugins/PhotonChatApi/ChatClient.cs
+Assets/Plugins/PhotonChatApi/ChatDisconnectCause.cs
+Assets/Plugins/PhotonChatApi/ChatEventCode.cs
+Assets/Plugins/PhotonChatApi/ChatOperationCode.cs
+Assets/Plugins/PhotonChatApi/ChatParameterCode.cs
+Assets/Plugins/PhotonChatApi/ChatPeer.cs
+Assets/Plugins/PhotonChatApi/ChatState.cs
+Assets/Plugins/PhotonChatApi/ChatUserStatus.cs
+Assets/Plugins/PhotonChatApi/IChatClientListener.cs
+Assets/Plugins/whydoidoit.com/ClickMeAndDie.cs
+Assets/Plugins/whydoidoit.com/LitJson/IJsonWrapper.cs
+Assets/Plugins/whydoidoit.com/LitJson/JsonData.cs
+Assets/Plugins/whydoidoit.com/LitJson/JsonException.cs
+Assets/Plugins/whydoidoit.com/LitJson/JsonMapper.cs
+Assets/Plugins/whydoidoit.com/LitJson/JsonReader.cs
+Assets/Plugins/whydoidoit.com/LitJson/JsonWriter.cs
+Assets/Plugins/whydoidoit.com/LitJson/Lexer.cs
+Assets/Plugins/whydoidoit.com/LitJson/ParserToken.cs
+Assets/Plugins/whydoidoit.com/Radical/RPCEnabler.cs
+Assets/Plugins/whydoidoit.com/Radical/System/Broadcaster.cs
+Assets/Plugins/whydoidoit.com/Radical/System/Curves.cs
+Assets/Plugins/whydoidoit.com/Radical/System/Delegates/DelegateSupport.cs
+Assets/Plugins/whydoidoit.com/Radical/System/Easing.cs
+Assets/Plugins/whydoidoit.com/Radical/System/InheritableRPC.cs
+Assets/Plugins/whydoidoit.com/Radical/System/LoadAnimations.cs
+Assets/Plugins/whydoidoit.com/Radical/System/Loom.cs
+Assets/Plugins/whydoidoit.com/Radical/System/MonoBehaviourEx.cs
+Assets/Plugins/whydoidoit.com/Radical/System/Radical.cs
+Assets/Plugins/whydoidoit.com/Radical/System/RadicalRoutine.cs
+Assets/Plugins/whydoidoit.com/Radical/System/RadicalRoutineHelper.cs
+Assets/Plugins/whydoidoit.com/Radical/System/Smoothing.cs
+Assets/Plugins/whydoidoit.com/Radical/System/Testing/Inherited.cs
+Assets/Plugins/whydoidoit.com/Radical/System/Testing/SimpleCaller.cs
+Assets/Plugins/whydoidoit.com/Radical/System/TransformExtensions.cs
+Assets/Plugins/whydoidoit.com/Radical/System/XmlSupport.cs
+Assets/Plugins/whydoidoit.com/ResultLogger.cs
+Assets/Plugins/whydoidoit.com/Serialization/EmptyObjectIdentifier.cs
+Assets/Plugins/whydoidoit.com/Serialization/Entry.cs
+Assets/Plugins/whydoidoit.com/Serialization/GetSet.cs
+Assets/Plugins/whydoidoit.com/Serialization/GetSetGeneric.cs
+Assets/Plugins/whydoidoit.com/Serialization/GetWritableAttributes.cs
+Assets/Plugins/whydoidoit.com/Serialization/IStorage.cs
+Assets/Plugins/whydoidoit.com/Serialization/InRangeItem.cs
+Assets/Plugins/whydoidoit.com/Serialization/JSONLevelLoader.cs
+Assets/Plugins/whydoidoit.com/Serialization/JSONLevelSerializer.cs
+Assets/Plugins/whydoidoit.com/Serialization/JSONSerializer.cs
+Assets/Plugins/whydoidoit.com/Serialization/LevelLoader.cs
+Assets/Plugins/whydoidoit.com/Serialization/LevelSerializer.cs
+Assets/Plugins/whydoidoit.com/Serialization/OnlyInRangeManager.cs
+Assets/Plugins/whydoidoit.com/Serialization/PrefabIdentifier.cs
+Assets/Plugins/whydoidoit.com/Serialization/RemoveEditors.cs
+Assets/Plugins/whydoidoit.com/Serialization/Rooms/DontStoreObjectInRoom.cs
+Assets/Plugins/whydoidoit.com/Serialization/Rooms/Examples/PlayerLocator.cs
+Assets/Plugins/whydoidoit.com/Serialization/Rooms/Examples/PlayerSpawnPoint.cs
+Assets/Plugins/whydoidoit.com/Serialization/Rooms/PreserveObjectWhenLoading.cs
+Assets/Plugins/whydoidoit.com/Serialization/Rooms/Room.cs
+Assets/Plugins/whydoidoit.com/Serialization/Rooms/RoomDataSaveGameStorage.cs
+Assets/Plugins/whydoidoit.com/Serialization/Rooms/RoomLoader.cs
+Assets/Plugins/whydoidoit.com/Serialization/Rooms/RoomManager.cs
+Assets/Plugins/whydoidoit.com/Serialization/SaveGameManager.cs
+Assets/Plugins/whydoidoit.com/Serialization/SerializationUnits.cs
+Assets/Plugins/whydoidoit.com/Serialization/Storage.cs
+Assets/Plugins/whydoidoit.com/Serialization/StoreInformation.cs
+Assets/Plugins/whydoidoit.com/Serialization/StoreMaterials.cs
+Assets/Plugins/whydoidoit.com/Serialization/StoreMesh.cs
+Assets/Plugins/whydoidoit.com/Serialization/StoredReferences.cs
+Assets/Plugins/whydoidoit.com/Serialization/TimeSpecialist.cs
+Assets/Plugins/whydoidoit.com/Serialization/UniqueIdentifier.cs
+Assets/Plugins/whydoidoit.com/Serialization/UnitySerializationExtensions.cs
+Assets/Plugins/whydoidoit.com/Serialization/UnitySerializer.cs
+Assets/Plugins/whydoidoit.com/Serialization/prewarm.cs
+Assets/Plugins/whydoidoit.com/SevenZipHelper.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Checksums/Adler32.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Checksums/CRC32.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Checksums/IChecksum.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Checksums/StrangeCRC.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/Deflater.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/DeflaterConstants.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/DeflaterEngine.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/DeflaterHuffman.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/DeflaterPending.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/Inflater.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/InflaterDynHeader.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/InflaterHuffmanTree.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/PendingBuffer.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/Streams/DeflaterOutputStream.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/Streams/InflaterInputStream.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/Streams/OutputWindow.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Compression/Streams/StreamManipulator.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Encryption/PkzipClassic.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Encryption/ZipAESStream.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/Encryption/ZipAESTransform.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/SharpZipBaseException.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/ZipConstants.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/ZipEntry.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/ZipExtraData.cs
+Assets/Plugins/whydoidoit.com/SharpZIP/src/ZipHelperStream.cs
+Assets/Plugins/whydoidoit.com/UnitySerializerVersion.cs
+Assets/Plugins/whydoidoit.com/Utility/Types.cs
+"Assets/Pro Standard Assets/Image Based/BlurEffect.cs"
+"Assets/Pro Standard Assets/Image Based/SSAOEffect.cs"
+"Assets/Pro Standard Assets/Water/Sources/Water.cs"
+"Assets/Standard Assets/Character Controllers/Sources/Scripts/MouseLook.cs"
+"Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs"
+"Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs"
+"Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs"
+"Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs"
+"Assets/Standard Assets/Characters/RollerBall/Scripts/Ball.cs"
+"Assets/Standard Assets/Characters/RollerBall/Scripts/BallUserControl.cs"
+"Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/AICharacterControl.cs"
+"Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs"
+"Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs"
+"Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs"
+"Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs"
+"Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs"
+"Assets/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs"
+"Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs"
+"Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs"
+"Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs"
+"Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs"
+"Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs"
+"Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs"
+"Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs"
+"Assets/Standard Assets/Scripts/General Scripts/ActivateTrigger.cs"
+"Assets/Standard Assets/Utility/ActivateTrigger.cs"
+"Assets/Standard Assets/Utility/AutoMobileShaderSwitch.cs"
+"Assets/Standard Assets/Utility/AutoMoveAndRotate.cs"
+"Assets/Standard Assets/Utility/CameraRefocus.cs"
+"Assets/Standard Assets/Utility/CurveControlledBob.cs"
+"Assets/Standard Assets/Utility/DragRigidbody.cs"
+"Assets/Standard Assets/Utility/DynamicShadowSettings.cs"
+"Assets/Standard Assets/Utility/FOVKick.cs"
+"Assets/Standard Assets/Utility/FPSCounter.cs"
+"Assets/Standard Assets/Utility/FollowTarget.cs"
+"Assets/Standard Assets/Utility/ForcedReset.cs"
+"Assets/Standard Assets/Utility/LerpControlledBob.cs"
+"Assets/Standard Assets/Utility/ObjectResetter.cs"
+"Assets/Standard Assets/Utility/ParticleSystemDestroyer.cs"
+"Assets/Standard Assets/Utility/PlatformSpecificContent.cs"
+"Assets/Standard Assets/Utility/SimpleActivatorMenu.cs"
+"Assets/Standard Assets/Utility/SimpleMouseRotator.cs"
+"Assets/Standard Assets/Utility/SmoothFollow.cs"
+"Assets/Standard Assets/Utility/TimedObjectActivator.cs"
+"Assets/Standard Assets/Utility/TimedObjectDestructor.cs"
+"Assets/Standard Assets/Utility/WaypointCircuit.cs"
+"Assets/Standard Assets/Utility/WaypointProgressTracker.cs"
+"Assets/Standard Assets/Water (Basic)/Sources/Scripts/WaterSimple.cs"
+-r:"C:\Program Files\Unity5\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll"
+-r:"C:\Program Files\Unity5\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll"
