@@ -1,0 +1,455 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igxprd32.dll 6.14.10.5303]
+    Renderer: Mobile Intel(R) 4 Series Express Chipset Family
+    Vendor:   Intel
+    VRAM:     64 MB (via fallback)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=0 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\HOTween.dll (this message is harmless)
+Loading D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\HOTween.dll into Unity Child Domain
+- Completed reload, in  1.287 seconds
+desktop: 1024x768 60Hz; virtual: 1024x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 48.711777 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 494.
+Total: 0.910450 ms (FindLiveObjects: 0.062857 ms CreateObjectMapping: 0.025701 ms MarkObjects: 0.213993 ms  DeleteObjects: 0.010895 ms)
+
+UnloadTime: 0.531631 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 496.
+Total: 0.846196 ms (FindLiveObjects: 0.067047 ms CreateObjectMapping: 0.027936 ms MarkObjects: 0.195555 ms  DeleteObjects: 0.010615 ms)
+
+UnloadTime: 0.569904 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 496.
+Total: 0.849549 ms (FindLiveObjects: 0.070679 ms CreateObjectMapping: 0.024863 ms MarkObjects: 0.193320 ms  DeleteObjects: 0.009498 ms)
+
+UnloadTime: 0.538057 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 496.
+Total: 0.844241 ms (FindLiveObjects: 0.067606 ms CreateObjectMapping: 0.025142 ms MarkObjects: 0.199187 ms  DeleteObjects: 0.010615 ms)
+
+UnloadTime: 1.275581 ms
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 635)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 635)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 635)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 12129.
+Total: 4.695010 ms (FindLiveObjects: 1.619479 ms CreateObjectMapping: 0.120965 ms MarkObjects: 1.445155 ms  DeleteObjects: 0.514311 ms)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(651.2, 39.4, 145.7)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(651.1, 39.4, 145.8)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(650.4, 39.4, 146.4)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(650.6, 39.4, 146.2)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(651.5, 39.4, 147.1)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(629.3, 39.6, 132.0)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(630.1, 39.6, 132.6)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(631.0, 39.6, 133.2)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(631.5, 39.6, 133.5)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(630.8, 39.6, 133.1)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(645.9, 39.4, 120.7)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectcastle_1_lowpoly_version
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(649.3, 38.3, 121.4)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(646.3, 38.8, 120.9)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(645.8, 38.9, 120.6)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(645.8, 38.9, 120.6)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(646.2, 39.0, 120.9)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectcastle_1_lowpoly_version
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(657.2, 38.3, 102.5)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectcastle_1_lowpoly_version
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(658.1, 38.3, 101.0)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit ObjectGameObject
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(493.3, 1.8, 182.4)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit ObjectGameObject
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(491.6, 1.8, 183.1)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit ObjectGameObject
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(489.8, 1.8, 183.8)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit ObjectGameObject
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(488.1, 1.8, 184.5)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit ObjectGameObject
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(483.1, 1.8, 187.9)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit ObjectGameObject
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(481.3, 1.8, 188.7)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit ObjectGameObject
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(479.0, 1.8, 189.7)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit ObjectGameObject
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(477.3, 1.8, 190.4)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit ObjectGameObject
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(458.2, 1.8, 197.8)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(473.8, 3.7, 187.3)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(473.8, 3.7, 187.3)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit ObjectGameObject
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(463.8, 1.8, 195.4)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit ObjectGameObject
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(483.9, 1.8, 186.5)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(452.9, 2.4, 175.8)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(452.9, 2.0, 175.8)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit ObjectGameObject
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(446.3, 1.8, 176.0)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(468.6, 2.4, 164.7)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Objectmon_goblinWizard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(468.7, 2.5, 164.4)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit ObjectGameObject
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(456.6, 1.8, 159.9)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit ObjectGameObject
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Hit Point(456.9, 1.8, 159.0)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;D:\Path Strewn with Skulls;D:\Path Strewn with Skulls;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Admin'
+OS-Version: 5.1.2600 (Service Pack 3) 0x100-0x1
+D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01.exe:PathStrewnWithSulls.v0.01.exe (00400000), size: 11948032 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 4.3.4.31067
+C:\WINDOWS\system32\ntdll.dll:ntdll.dll (7C900000), size: 724992 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\kernel32.dll:kernel32.dll (7C800000), size: 1011712 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2991
+C:\WINDOWS\system32\USER32.dll:USER32.dll (77D30000), size: 589824 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2622
+C:\WINDOWS\system32\GDI32.dll:GDI32.dll (77F10000), size: 290816 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2818
+C:\WINDOWS\system32\VERSION.dll:VERSION.dll (77BF0000), size: 32768 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\ole32.dll:ole32.dll (774D0000), size: 1298432 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2846
+C:\WINDOWS\system32\ADVAPI32.dll:ADVAPI32.dll (77DC0000), size: 704512 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\RPCRT4.dll:RPCRT4.dll (77E70000), size: 593920 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2794
+C:\WINDOWS\system32\msvcrt.dll:msvcrt.dll (77C00000), size: 360448 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 7.0.2600.2180
+C:\WINDOWS\system32\SHLWAPI.dll:SHLWAPI.dll (77F60000), size: 483328 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.2995
+C:\WINDOWS\system32\SHELL32.dll:SHELL32.dll (7C9C0000), size: 8835072 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.2951
+C:\WINDOWS\system32\OPENGL32.dll:OPENGL32.dll (5F220000), size: 835584 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\GLU32.dll:GLU32.dll (5FF90000), size: 135168 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\DDRAW.dll:DDRAW.dll (73720000), size: 299008 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.3.2600.2180
+C:\WINDOWS\system32\DCIMAN32.dll:DCIMAN32.dll (73B80000), size: 24576 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\WINMM.dll:WINMM.dll (76B20000), size: 188416 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\WS2_32.dll:WS2_32.dll (71A90000), size: 94208 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\WS2HELP.dll:WS2HELP.dll (71A80000), size: 32768 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\OLEAUT32.dll:OLEAUT32.dll (77110000), size: 573440 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\IMM32.dll:IMM32.dll (76360000), size: 118784 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\DNSAPI.dll:DNSAPI.dll (76F10000), size: 159744 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2938
+C:\WINDOWS\system32\IPHLPAPI.DLL:IPHLPAPI.DLL (76D50000), size: 102400 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2912
+C:\WINDOWS\system32\WINHTTP.dll:WINHTTP.dll (4D550000), size: 360448 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\HID.DLL:HID.DLL (68E60000), size: 36864 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\MSACM32.dll:MSACM32.dll (77BD0000), size: 86016 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2982_x-ww_ac3f9c03\comctl32.dll:comctl32.dll (773C0000), size: 1060864 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.2982
+D:\Path Strewn with Skulls\PathStrewnWithSulls.v0.01_Data\Mono\mono.dll:mono.dll (10000000), size: 2285568 (result: 0), SymType: '-exported-', PDB: ''
+C:\WINDOWS\system32\PSAPI.DLL:PSAPI.DLL (76BE0000), size: 45056 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\MSWSOCK.dll:MSWSOCK.dll (71A30000), size: 262144 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (5B260000), size: 229376 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.0.2900.2523
+C:\WINDOWS\system32\MSCTF.dll:MSCTF.dll (746E0000), size: 311296 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2575
+C:\WINDOWS\system32\msctfime.ime:msctfime.ime (75310000), size: 188416 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\d3d9.dll:d3d9.dll (4FD70000), size: 1728512 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.3.2600.2180
+C:\WINDOWS\system32\d3d8thk.dll:d3d8thk.dll (6DF20000), size: 24576 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.3.2600.2180
+C:\WINDOWS\system32\CLBCATQ.DLL:CLBCATQ.DLL (76FC0000), size: 520192 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 2001.12.4414.310
+C:\WINDOWS\system32\COMRes.dll:COMRes.dll (77040000), size: 815104 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 2001.12.4414.258
+C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (74EB0000), size: 32768 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\wbem\wbemcomn.dll:wbemcomn.dll (75250000), size: 225280 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\xpsp2res.dll:xpsp2res.dll (20000000), size: 2936832 (result: 0), SymType: '-nosymbols-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (74E90000), size: 57344 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (75660000), size: 483328 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\MSVCP60.dll:MSVCP60.dll (76050000), size: 413696 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 6.2.3104.0
+C:\WINDOWS\system32\NTDSAPI.dll:NTDSAPI.dll (76780000), size: 77824 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\WLDAP32.dll:WLDAP32.dll (76F50000), size: 184320 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\NETAPI32.dll:NETAPI32.dll (5BD50000), size: 348160 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2976
+C:\WINDOWS\system32\Secur32.dll:Secur32.dll (77FE0000), size: 69632 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\WINTRUST.dll:WINTRUST.dll (76C20000), size: 188416 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.131.2600.5709
+C:\WINDOWS\system32\CRYPT32.dll:CRYPT32.dll (77A70000), size: 614400 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.131.2600.5709
+C:\WINDOWS\system32\MSASN1.dll:MSASN1.dll (77B10000), size: 73728 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\IMAGEHLP.dll:IMAGEHLP.dll (76C80000), size: 163840 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\wdmaud.drv:wdmaud.drv (72CE0000), size: 36864 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\msacm32.drv:msacm32.drv (72CD0000), size: 32768 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.0
+C:\WINDOWS\system32\midimap.dll:midimap.dll (77BC0000), size: 28672 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\dsound.dll:dsound.dll (73ED0000), size: 376832 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.3.2600.2180
+C:\WINDOWS\system32\KsUser.dll:KsUser.dll (73EA0000), size: 16384 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.3.2600.2180
+C:\WINDOWS\system32\xinput1_3.dll:xinput1_3.dll (0DFA0000), size: 90112 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 9.18.944.0
+C:\WINDOWS\system32\SETUPAPI.dll:SETUPAPI.dll (77910000), size: 999424 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\program files\VolumeControl\wheel.dll:wheel.dll (0DFD0000), size: 24576 (result: 0), SymType: '-exported-', PDB: ''
+C:\Program Files\Elantech\ETDApix.dll:ETDApix.dll (0BE20000), size: 282624 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 7.0.6.0
+C:\WINDOWS\system32\WINSPOOL.DRV:WINSPOOL.DRV (72FC0000), size: 155648 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+C:\WINDOWS\system32\dbghelp.dll:dbghelp.dll (59C60000), size: 659456 (result: 0), SymType: '-exported-', PDB: '', fileVersion: 5.1.2600.2180
+
+========== OUTPUTING STACK TRACE ==================
+
+(0x004F90D9) (PathStrewnWithSulls.v0.01): (filename not available): ??$Transfer@V?$StreamedBinaryWrite@$0A@@@@Behaviour@@QAEXAAV?$StreamedBinaryWrite@$0A@@@@Z + 0xd909
+(0x004FB2CB) (PathStrewnWithSulls.v0.01): (filename not available): ??$Transfer@V?$StreamedBinaryWrite@$0A@@@@Behaviour@@QAEXAAV?$StreamedBinaryWrite@$0A@@@@Z + 0xfafb
+(0x0080363C) (PathStrewnWithSulls.v0.01): (filename not available): ??$Transfer@VSafeBinaryRead@@@AnimationEvent@@QAEXAAVSafeBinaryRead@@@Z + 0x18aeac
+(0x008076D2) (PathStrewnWithSulls.v0.01): (filename not available): ??$Transfer@VSafeBinaryRead@@@AnimationEvent@@QAEXAAVSafeBinaryRead@@@Z + 0x18ef42
+(0x005D68AD) (PathStrewnWithSulls.v0.01): (filename not available): ??$Transfer@V?$StreamedBinaryWrite@$0A@@@@Behaviour@@QAEXAAV?$StreamedBinaryWrite@$0A@@@@Z + 0xeb0dd
+(0x7C80B683) (kernel32): (filename not available): GetModuleFileNameA + 0x1b4
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
